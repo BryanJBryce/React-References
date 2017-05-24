@@ -9,6 +9,7 @@ List of sites/books etc for learning React/React Native
 ### https://react.rocks: Catalog of React components
 ### https://khan.github.io/react-components: Khan Academy React components
 ### http://www.reactjsx.com: Registry of React components
+### https://react-bootstrap.github.io
 
 ## Packages
 
